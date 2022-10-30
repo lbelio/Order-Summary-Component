@@ -19,12 +19,12 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 ## Overview
 
 This was my first project after I completed the HTML/CSS sections of a Udemy.com web development course.
-I decided it that I'd like to solidify the basics of HTML and CSS before I move onto the Javascript section of the course hence my choice to complete this small project. 
+I decided that I'd like to solidify the basics of HTML and CSS before I move onto the Javascript section of the course hence my choice to complete this small project. 
 I chose to use the most simple CSS rather than relying on Bootstrap or SASS as I would like to gain a good understanding of crucial CSS elements like flexbox. 
 
 ### Screenshot
 
-Here is a fullscreen screenshot (please ignore the Activate Windows overlay! ![][def](./OrderSummaryComponent.jpg)
+Here is a fullscreen screenshot (please ignore the Activate Windows overlay!) ![][def](./OrderSummaryComponent.jpg)
 
 ### Links
 
@@ -33,9 +33,8 @@ Here is a fullscreen screenshot (please ignore the Activate Windows overlay! ![]
 
 ## My process
 
-This is my first CSS and HTML project in which I didn't follow along with someone else writing the code. I felt pretty confident as I started working on this project but soon it really hit me how little I really know. I found that aligning all the elements was the hardest part to begin with. I wasn't sure what difference all the layout options made so I spent a while on the Mozzila dev website reading the relevant pages and then playing around with what I could find. Eventually I settled on flexbox which I believe was the right choice. 
-I started with inspecting all the design images provided and wrote out the relevant HTML. Then, wrote out any CSS
-that would be applicable to the whole page such as the background colour, font family etc. Next, based on the design images, I divided up the HTML in segments that I thought would make most sense when styling them. 
+This is my first CSS and HTML project in which I didn't follow along with someone else writing the code. I felt fairly confident as I started working on this project but soon it hit me how little I really know. I found that aligning all the elements was the hardest part. I wasn't sure what difference all the layout options made so I spent a while on the Mozzila dev website reading the relevant pages and then playing around with what I could find. Eventually I settled on flexbox which I believe was the right choice. 
+I started with inspecting all the design images provided and wrote out the relevant HTML. Then, wrote out any CSS that would be applicable to the whole page such as the background colour, font family etc. Next, based on the design images, I divided up the HTML into segments that I thought would make most sense when styling them. 
 Once I figured out how to position the main component in the middle of the screen, I styled all other elements from top to bottom.
 
 ### Built with
@@ -48,7 +47,7 @@ Once I figured out how to position the main component in the middle of the scree
 ### What I learned
 
 - I strengthened my confidence in using CSS flexbox
--  
+- I learned that refering to available recources (such as my Udemy.com course or Mozilla dev) is going to be very important in progressing with my studies. 
 
 ### Continued development
 
