@@ -28,8 +28,8 @@ Here is a fullscreen screenshot (please ignore the Activate Windows overlay! ![]
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/lbelio/OrderSummaryComponent/blob/0366eebd8642cf972d82a3c46bcbd6278e972247/index.html
+- Live Site URL: https://lbelio.github.io/OrderSummaryComponent/
 
 ## My process
 
